@@ -21,10 +21,9 @@ Each stream has its own README file here, containing:
 ---
 
 ## Contributors
-**Sabarikirishwaran Ponnambalam** – Quantum Algorithms (PhD, Griffith University) 
-Expertise: QAOA, Variational Circuits, Quantum Optimization.
+- **Sabarikirishwaran Ponnambalam** – Quantum Algorithms (PhD, Griffith University) 
+Expertise: QAOA, Variational Circuits, Quantum Optimization.  
 
-
-**Léa Cassé** – Quantum Machine Learning & Environmental Data (PhD, Univ. of Waikato / École Polytechnique)
+- **Léa Cassé** – Quantum Machine Learning & Environmental Data (PhD, Univ. of Waikato / École Polytechnique)
 Expertise: QRU-based models, forecasting, TAIAO project collaborator.
 ---
