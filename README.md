@@ -21,9 +21,10 @@ Each stream has its own README file here, containing:
 ---
 
 ## Contributors
-**Sabarikirishwaran Ponnambalam** – Quantum Algorithms (PhD, Griffith University) — [GitHub](https://github.com/Sabarikirishwaran)  
+**Sabarikirishwaran Ponnambalam** – Quantum Algorithms (PhD, Griffith University) 
 Expertise: QAOA, Variational Circuits, Quantum Optimization.
 
-**Léa Cassé** – Quantum Machine Learning & Environmental Data (PhD, Univ. of Waikato / École Polytechnique) — [GitHub](https://github.com/LeaCasse/quantum-flood-forecasting)  
+
+**Léa Cassé** – Quantum Machine Learning & Environmental Data (PhD, Univ. of Waikato / École Polytechnique)
 Expertise: QRU-based models, forecasting, TAIAO project collaborator.
 ---
