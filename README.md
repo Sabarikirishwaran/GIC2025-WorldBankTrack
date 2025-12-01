@@ -27,3 +27,11 @@ Expertise: QAOA, Variational Circuits, Quantum Optimization.
 - **Léa Cassé** – Quantum Machine Learning & Environmental Data (PhD, Univ. of Waikato / École Polytechnique)
 Expertise: QRU-based models, forecasting, TAIAO project collaborator.
 ---
+
+## License
+
+This project is licensed under the **Polyform Noncommercial License**.
+
+You may use, modify, and share this software only for **noncommercial** purposes, under the terms specified in the Polyform Noncommercial license.
+
+For the full text of the license, see the [$LICENSE$](./LICENSE) file in this repository.
