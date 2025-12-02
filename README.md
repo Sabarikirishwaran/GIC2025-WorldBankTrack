@@ -34,4 +34,4 @@ This project is licensed under the **Polyform Noncommercial License**.
 
 You may use, modify, and share this software only for **noncommercial** purposes, under the terms specified in the Polyform Noncommercial license.
 
-For the full text of the license, see the [$LICENSE$](./LICENSE) file in this repository.
+For the full text of the license, see the [LICENSE](./LICENSE) file in this repository.
